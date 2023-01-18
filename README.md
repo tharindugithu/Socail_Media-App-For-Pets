@@ -36,7 +36,8 @@ profile page shows user details and posts with following and followers menu.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-############## What you need to run this application:
+############## What you need to run this application ######################
+
 Node
 MongoDB or Mongo Atlas
 Cloudinary account
