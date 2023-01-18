@@ -2,43 +2,43 @@ Cloud Application Project  -  MERN SOCIAL MEDIA WEBSITE FOR PETS
 
 # Live link -  https://petsweb.live/ 
 
-######## User features #######
+<h1>User features</h1>
+<br
 <ul>
-register and login users.
+<li>register and login users.</li>
 
-post images can be uploaded using  file system.
+<li>post images can be uploaded using  file system.</li>
 
-search other users by username.
+<li>search other users by username.</li>
 
-user suggestions menu.
+<li>user suggestions menu.</li>
 
-save any post/user profile  to collection.(Cloudinary)
+<li>save any post/user profile  to collection.(Cloudinary)</li>
 
-delete posts and comments.
+<li>delete posts and comments.</li>
 
-Explore page to view other posts by random users.
+<li>Explore page to view other posts by random users.</li>
 
-profile page.
+<li>profile page.</li>
 
-edit profile page user data.
+<li>edit profile page user data.</li>
 
-password is stored in database in encrypted format with salt.
+<li>password is stored in database in encrypted format with salt.</li>
 
-create and edit posts.
+<li>create and edit posts.</li>
 
-like ,comment, share and edit posts.
+<li>like ,comment, share and edit posts.</li>
 
-posts include text(caption) and image(s).
+<li>posts include text(caption) and image(s).</li>
 
-comment on posts.
+<li>comment on posts.</li>
 
-like commets.
+<li>like commets.</li>
 
-profile page shows user details and posts with following and followers menu.
+<li>profile page shows user details and posts with following and followers menu.</li>
 </ul>
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-########## What you need to run this application ##############
+<h1>What you need to run this application</h1>
 
 1. Node
 2. MongoDB or Mongo Atlas
