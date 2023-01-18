@@ -44,4 +44,5 @@ Cloud Application Project  -  MERN SOCIAL MEDIA WEBSITE FOR PETS
 2. MongoDB or Mongo Atlas
 3. Cloudinary account
 4. NPM
-5. and complete config.env data
+5. complete config.env data
+6. express
