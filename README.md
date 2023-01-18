@@ -3,7 +3,7 @@ Cloud Application Project  -  MERN SOCIAL MEDIA WEBSITE FOR PETS
 # Live link -  https://petsweb.live/ 
 
 ######## User features #######
-
+<ul>
 register and login users.
 
 post images can be uploaded using  file system.
@@ -35,7 +35,7 @@ comment on posts.
 like commets.
 
 profile page shows user details and posts with following and followers menu.
-
+</ul>
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 ########## What you need to run this application ##############
