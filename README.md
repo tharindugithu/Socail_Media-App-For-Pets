@@ -47,3 +47,4 @@ Cloud Application Project  -  MERN SOCIAL MEDIA WEBSITE FOR PETS
 5. complete config.env data
 6. express
 7. react & redux
+8. hosting -> oracale cloud
